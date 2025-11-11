@@ -1,0 +1,8 @@
+PyQt5
+pdf2image
+pillow
+imagehash
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+py2app
