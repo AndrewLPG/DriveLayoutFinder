@@ -7,7 +7,7 @@
 <body>
 <h1>Drive Layout Finder Download</h1>
 <p>Click below to download the ZIP of the GitHub repo:</p>
-<a href="https://github.com/YOUR_USERNAME/DriveLayoutFinder/archive/refs/heads/main.zip" download>
+<a href="https://github.com/AndrewLPG/DriveLayoutFinder/archive/refs/heads/main.zip" download>
 <button style="font-size:16px;padding:10px 20px;">Download ZIP</button>
 </a>
 <p>After downloading:</p>
